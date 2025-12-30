@@ -15,3 +15,7 @@ class helloITI{
 	}
 }
 //comments made by tayseer
+		void printHihi(){
+		System.out.println("Hi Hi GIT");
+	}
+}
