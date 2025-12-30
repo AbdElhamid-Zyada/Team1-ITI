@@ -16,6 +16,9 @@ class helloITI{
 }
 //comments made by tayseer
 		void printHihi(){
-		System.out.println("Hi Hi GIT");
+			// override by abdelhamed
+		System.out.println("Hi Hi conflict abdelhamed");
 	}
+	
+	
 }
