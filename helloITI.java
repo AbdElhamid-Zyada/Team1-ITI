@@ -3,13 +3,13 @@ class helloITI{
 		printHelloGit();
 	}
 	void printHello(){
-		System.out.println("Hello ITI Students");
+		System.out.println("Hello iti edited by tayseer");
 	}
 	void printHelloGit(){
-		System.out.println("Hello GitHub");
+		System.out.println("Hello Git edited by tasyeer");
 	}
-	void printNoByebye(){
-		System.out.println("No Bye Bye Git, Only Hello");
+	void printByebye(){
+		System.out.println("Bye Bye GIT edited by tayseer");
 	}
 	void printHihi(){
 		System.out.println("Hi Hi Git Version 2");
