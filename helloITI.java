@@ -13,5 +13,9 @@ class helloITI{
 	}
 	void printHihi(){
 		System.out.println("Hi Hi Git Version 2");
+}
+//comments made by tayseer
+		void printHihi(){
+		System.out.println("Hi Hi GIT");
 	}
 }
