@@ -5,13 +5,13 @@ class helloITI{
 		printHello();
 	}
 	void printHello(){
-		System.out.println("Hello iti");
+		System.out.println("Hello iti edited by tayseer");
 	}
 	void printHelloGit(){
-		System.out.println("Hello Git");
+		System.out.println("Hello Git edited by tasyeer");
 	}
 	void printByebye(){
-		System.out.println("Bye Bye GIT");
+		System.out.println("Bye Bye GIT edited by tayseer");
 	}
 }
 //comments made by tayseer
