@@ -10,8 +10,8 @@ class helloITI{
 	void printHelloGit(){
 		System.out.println("Hello Git");
 	}
-	void printByebye(){
-		System.out.println("Bye Bye GIT");
+	void printNoByebye(){
+		System.out.println("No Bye Bye GIT Only Hi Hi");
 	}
 		void printHihi(){
 		System.out.println("Hi Hi GIT");
